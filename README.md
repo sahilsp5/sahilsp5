@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... gaming
 - 🌱 I’m currently learning ... gaming
 - 💞️ I’m looking to collaborate on ... gaming
-- 📫 How to reach me ... gaming
+- 📫 How to reach me ... don't
 
 <!---
 sahilsp5/sahilsp5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
